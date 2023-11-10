@@ -12,7 +12,7 @@ namespace _7_9
         static void Main(string[] args)
         {
             Class1 class1 = new Class1(Console.ReadLine());
-            class1.Print(" ");
+            class1.Print("");
             Console.ReadLine();
         }
     }

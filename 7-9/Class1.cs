@@ -17,7 +17,7 @@ namespace _7_9
 
         public void Print(string name)
         {
-            Console.WriteLine(Name.Length);
+            Console.WriteLine("Total "+Name.Length);
         }
     }
 }
