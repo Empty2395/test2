@@ -1,0 +1,8 @@
+D:\C# academi\практика\7-9\7-9\bin\Debug\7-9.exe.config
+D:\C# academi\практика\7-9\7-9\bin\Debug\7-9.exe
+D:\C# academi\практика\7-9\7-9\bin\Debug\7-9.pdb
+D:\C# academi\практика\7-9\7-9\obj\Debug\7-9.csproj.AssemblyReference.cache
+D:\C# academi\практика\7-9\7-9\obj\Debug\7-9.csproj.SuggestedBindingRedirects.cache
+D:\C# academi\практика\7-9\7-9\obj\Debug\7-9.csproj.CoreCompileInputs.cache
+D:\C# academi\практика\7-9\7-9\obj\Debug\7-9.exe
+D:\C# academi\практика\7-9\7-9\obj\Debug\7-9.pdb
